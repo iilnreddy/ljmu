@@ -1,0 +1,7 @@
+2026-03-08 11:29:13,286 - INFO - Downloading BSE listed companies from https://www.bseindia.com/download/Equity_L.csv?
+2026-03-08 11:29:14,141 - ERROR - Download failed: 403 Client Error: Forbidden for url: https://www.bseindia.com/download/Equity_L.csv
+2026-03-08 11:31:43,303 - INFO - Trying BSE Official Equity_L: https://www.bseindia.com/download/Equity_L.csv
+2026-03-08 11:31:44,194 - WARNING - Failed BSE Official Equity_L: 404 Client Error: Not Found for url: https://www.bseindia.com/download/Equity_L.csv
+2026-03-08 11:31:45,196 - INFO - Trying StockTrendsIndia BSE Scrip List: https://stocktrendsindia.appspot.com/BSE-Scrip-Code-Name-Sector-Download.csv
+2026-03-08 11:31:46,992 - WARNING - Failed StockTrendsIndia BSE Scrip List: module 'pandas.compat' has no attribute 'StringIO'
+2026-03-08 11:31:47,995 - ERROR - All sources failed
