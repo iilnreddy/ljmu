@@ -1,1 +1,2 @@
-Data/
+Data/listed_csv/*.csv
+Data/index_csv/*.csv
